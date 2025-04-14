@@ -9,6 +9,3 @@ for i in range(1, len(arr)) :
 
 print(arr)
 
-# incremental approach because for every iteration arr is sorted partially
-# worst case n^2 
-# best case n

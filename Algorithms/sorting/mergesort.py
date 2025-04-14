@@ -32,6 +32,3 @@ def merge_sort(arr) :
 
 print(merge_sort(arr))
 
-
-# divide and conquer 
-# avg n log n 
